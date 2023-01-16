@@ -1,0 +1,170 @@
+[
+     {
+       "asset_name": "bitcoin",
+       "asset_type": "Bitcoin (BTC)",
+       "asset_pricing": {
+         "title": "Price",
+         "price": 31812.8,
+         "increment": true,
+         "percentage": "+10%"
+       },
+       "asset_tvl": {
+         "title": "TVL",
+         "price": 60000
+       },
+       "asset_imgURL": "https://ik.imagekit.io/thebugcommunity/assets/bitcoin/Bitcoin_SV__BSV__PTjr99Zxa.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056409",
+       "asset_popular_pairs": {
+         "title": "Popular pairs",
+         "firstIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Solana__SOL__cYu6u1ZX5E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056903",
+         "secondIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Ethereum__ETH__aAdc3ufDkQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056726",
+         "thirdIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Binance_Coin__BNB__uXZ3jzuH-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056436"
+       }
+     },
+     {
+       "asset_name": "solana",
+       "asset_type": "Solana (SOL)",
+       "asset_pricing": {
+         "title": "Price",
+         "price": 32.83,
+         "increment": false,
+         "percentage": "-12.32%"
+       },
+       "asset_tvl": {
+         "title": "TVL",
+         "price": 60000
+       },
+       "asset_imgURL": "https://ik.imagekit.io/thebugcommunity/assets/solana/Solana__SOL__9W9Lv_N2Q.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894057546",
+       "asset_popular_pairs": {
+         "title": "Popular pairs",
+         "firstIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Bitcoin_SV__BSV__RR1HYuCpV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894415232",
+         "secondIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Ethereum__ETH__aAdc3ufDkQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056726",
+         "thirdIcon":  "https://ik.imagekit.io/thebugcommunity/assets/common/Binance_Coin__BNB__uXZ3jzuH-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056436"
+       }
+     },
+     {
+       "asset_name": "ethereum",
+       "asset_type": "Ethereum (ETH)",
+       "asset_pricing": {
+         "title": "Price",
+         "price": 1466.45,
+         "increment": false,
+         "percentage": "-11.93%"
+       },
+       "asset_tvl": {
+         "title": "TVL",
+         "price": 60000
+       },
+       "asset_imgURL": "https://ik.imagekit.io/thebugcommunity/assets/ethereum/Ethereum__ETH__hRZHukCCf.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894057384",
+       "asset_popular_pairs": {
+         "title": "Popular pairs",
+         "firstIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Solana__SOL__cYu6u1ZX5E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056903",
+         "secondIcon":  "https://ik.imagekit.io/thebugcommunity/assets/common/Bitcoin_SV__BSV__RR1HYuCpV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894415232",
+         "thirdIcon":"https://ik.imagekit.io/thebugcommunity/assets/common/Binance_Coin__BNB__uXZ3jzuH-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056436"
+       }
+     },
+     {
+       "asset_name": "binance",
+       "asset_type": "Binance USD (BUSD)",
+       "asset_pricing": {
+         "title": "Price",
+         "price": 1.00,
+         "increment": true,
+         "percentage": "+0.26%"
+       },
+       "asset_tvl": {
+         "title": "TVL",
+         "price": 60000
+       },
+       "asset_imgURL": "https://ik.imagekit.io/thebugcommunity/assets/binance/Binance_Coin__BNB___RxXFwjxO.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056419",
+       "asset_popular_pairs": {
+         "title": "Popular pairs",
+         "firstIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Solana__SOL__cYu6u1ZX5E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056903",
+         "secondIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Ethereum__ETH__aAdc3ufDkQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056726",
+         "thirdIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Binance_Coin__BNB__uXZ3jzuH-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056436"
+       }
+     },
+     {
+       "asset_name": "shiba",
+       "asset_type": "Shiba Inu (SHIB)",
+       "asset_pricing": {
+         "title": "Price",
+         "price": 0.00000001948,
+         "increment": false,
+         "percentage": "-8.1%"
+       },
+       "asset_tvl": {
+         "title": "TVL",
+         "price": 60000
+       },
+       "asset_imgURL":"https://ik.imagekit.io/thebugcommunity/assets/shiba/SHIBA_INU__SHIB__imxU6jTczo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894057134",
+       "asset_popular_pairs": {
+         "title": "Popular pairs",
+         "firstIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Solana__SOL__cYu6u1ZX5E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056903",
+         "secondIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Ethereum__ETH__aAdc3ufDkQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056726",
+         "thirdIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Binance_Coin__BNB__uXZ3jzuH-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056436"
+       }
+     },
+     {
+      "asset_name": "bitcoin",
+      "asset_type": "Bitcoin (BTC)",
+      "asset_pricing": {
+        "title": "Price",
+        "price": 31812.8,
+        "increment": true,
+        "percentage": "+10%"
+      },
+      "asset_tvl": {
+        "title": "TVL",
+        "price": 60000
+      },
+      "asset_imgURL": "https://ik.imagekit.io/thebugcommunity/assets/bitcoin/Bitcoin_SV__BSV__PTjr99Zxa.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056409",
+      "asset_popular_pairs": {
+        "title": "Popular pairs",
+        "firstIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Solana__SOL__cYu6u1ZX5E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056903",
+        "secondIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Ethereum__ETH__aAdc3ufDkQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056726",
+        "thirdIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Binance_Coin__BNB__uXZ3jzuH-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056436"
+      }
+    },
+    {
+      "asset_name": "solana",
+      "asset_type": "Solana (SOL)",
+      "asset_pricing": {
+        "title": "Price",
+        "price": 32.83,
+        "increment": false,
+        "percentage": "-12.32%"
+      },
+      "asset_tvl": {
+        "title": "TVL",
+        "price": 60000
+      },
+      "asset_imgURL": "https://ik.imagekit.io/thebugcommunity/assets/solana/Solana__SOL__9W9Lv_N2Q.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894057546",
+      "asset_popular_pairs": {
+        "title": "Popular pairs",
+        "firstIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Bitcoin_SV__BSV__RR1HYuCpV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894415232",
+        "secondIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Ethereum__ETH__aAdc3ufDkQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056726",
+        "thirdIcon":  "https://ik.imagekit.io/thebugcommunity/assets/common/Binance_Coin__BNB__uXZ3jzuH-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056436"
+      }
+    },
+    {
+      "asset_name": "ethereum",
+      "asset_type": "Ethereum (ETH)",
+      "asset_pricing": {
+        "title": "Price",
+        "price": 1466.45,
+        "increment": false,
+        "percentage": "-11.93%"
+      },
+      "asset_tvl": {
+        "title": "TVL",
+        "price": 60000
+      },
+      "asset_imgURL": "https://ik.imagekit.io/thebugcommunity/assets/ethereum/Ethereum__ETH__hRZHukCCf.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894057384",
+      "asset_popular_pairs": {
+        "title": "Popular pairs",
+        "firstIcon": "https://ik.imagekit.io/thebugcommunity/assets/common/Solana__SOL__cYu6u1ZX5E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056903",
+        "secondIcon":  "https://ik.imagekit.io/thebugcommunity/assets/common/Bitcoin_SV__BSV__RR1HYuCpV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894415232",
+        "thirdIcon":"https://ik.imagekit.io/thebugcommunity/assets/common/Binance_Coin__BNB__uXZ3jzuH-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673894056436"
+      }
+    }
+   ]
