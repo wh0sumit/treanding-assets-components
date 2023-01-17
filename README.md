@@ -1,6 +1,6 @@
 ### Trending Assets Component 💎
 ---
-This is a component that allows you to show the most trending assets, this project is an assginment for the Frontend Engineer Role at [Relative](https://relative.fi/) 🙌
+This is a component that allows you to show the most trending assets, this project is an assignment for the Frontend Engineer Role at [Relative](https://relative.fi/) 🙌
 
 ### Tech Stack 🦾
 
